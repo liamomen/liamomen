@@ -25,8 +25,8 @@ A CSS preprocessor built with ANTLR4 and TypeScript. Supports a custom syntax wi
  
 ## 📫 Connect
  
-💼 **Beschikbaar voor freelance opdrachten vanaf heden.**  
-Interesse in een samenwerking of op zoek naar een full-stack versterking (.NET / React) voor je project? 
+💼 **Available for freelance opportunities.**  
+Interested in working together or looking for a full-stack (.NET / React) developer to reinforce your project? 
 
-Stuur me gerust een berichtje via LinkedIn!  
+Feel free to reach out to me directly via LinkedIn!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Liam%20Omen-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/liam-omen/)
